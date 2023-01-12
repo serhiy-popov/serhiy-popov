@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serhiy-popov
 - 👀 I’m interested in ...python, AI, ML, DL, DS...
-- 🌱 I’m currently learning ...pthon
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ... AI in art
 - 📫 How to reach me ...
 
